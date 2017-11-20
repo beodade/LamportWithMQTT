@@ -1,3 +1,3 @@
-# LamportWithMQTT
+# LamportWitRabbitMQ
 
 pika 
